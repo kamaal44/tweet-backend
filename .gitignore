@@ -13,3 +13,7 @@
 *.out
 
 .DS_Store
+*.csv
+*.db
+*.sqlite
+*.sqlite3
