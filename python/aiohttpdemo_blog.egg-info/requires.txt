@@ -1,0 +1,7 @@
+aiohttp
+aiohttp_admin
+trafaret
+aiohttp_jinja2
+pyyaml
+aiopg
+faker
